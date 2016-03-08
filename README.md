@@ -1,7 +1,7 @@
 # about-me
 ![alt text](http://s29.postimg.org/f0jhwt6fr/12772074_1332351536782377_4305195265850081940_o.jpg "@ NUMA")
 
-Technology is for me a tool allowing me to express my creativity. [Producer of electronic music](https://soundcloud.com/amazinggaijin) and tech enthusiast Techcrunch, Gizmodo and Hackernews , GrowthHacker.com are part of my morning routine.
+Technology is for me a tool allowing me to express my creativity. [Producer of electronic music](https://soundcloud.com/amazinggaijin) and tech enthusiast Techcrunch, Gizmodo and Hackernews are part of my morning routine.
 
 My passions allowed me to etablish a network through Europe in the sectors of musics and the technologies, sectors between which the borders are getting thinner.
 
