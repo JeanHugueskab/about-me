@@ -1,4 +1,5 @@
 # about-me
+(http://s29.postimg.org/f0jhwt6fr/12772074_1332351536782377_4305195265850081940_o.jpg)
 
 Technology is for me a tool allowing me to express my creativity. Producer of electronic music and tech enthusiast Techcrunch, Gizmodo and Hackernews , GrowthHacker.com are part of my morning routine.
 
