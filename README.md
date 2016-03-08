@@ -7,7 +7,7 @@ My passions allowed me to etablish a network through Europe in the sectors of mu
 
 Im currently producing a french podcast about tech called [Start-up France Podcast](https://soundcloud.com/startupfranceslackgroup/) an activity which is allowing me to nurturing meaningful connection with entrepreneurs and my technical skills as a sound designer.
 
-Ex dev bootcamp simplon.co alumni and Growth Hacker intern at the french investment firm  [TheFamily ](http://www.thefamily.co/) , I can say that i have solid foundation in Web development and growth hacking.
+Ex dev bootcamp [simplon.co](http://simplon.co/) alumni and Growth Hacker intern at the french investment firm  [TheFamily ](http://www.thefamily.co/) , I can say that i have solid foundation in Web development and growth hacking.
 
 Do not hesitate to send me an e-mail for a first contact:
 
