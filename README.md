@@ -49,26 +49,27 @@ end
 Growth Audit for company  like
 
 Bit it 
-  bitit.gift/I helped Bit it wich is a bitcoin e-giftcards  startup to get into the growth hacker mindset, and set up their    priority for customers acquisition
+  bitit.gift/ I helped Bit it wich is a bitcoin e-giftcards  startup to get into the growth hacker mindset, and set up their    priority for customers acquisition
 
 
 Bricool 
- www.bricool.co/Set up a Google Script for Bricool the uber of handy work, to send automatic SMS with twilio  API
+ www.bricool.co/ Set up a Google Script for Bricool the uber of handy work, to send automatic SMS with twilio  API
 
 Everinvest 
-  https://www.everinvest.fr/Helped everinvest with advice on how to reach influencers in their market
+  https://www.everinvest.fr/ Helped everinvest with advice on how to reach influencers in their market
 
 #Head of growth , NOVEMBER 2015 - 
 <p>I helped build  HackerHouse as a test and data driven company with an  agressive execution. </p>
 In less than **24h** we had:
-580 unique visitors
+<b>580 unique visitors </b>
 a new user signing up every 5 minutes.
 
 
-Startup France Slack Group, NOVEMBER 2015 - 
-Admin / GROWTH HACKER 
+<p>Startup France Slack Group, NOVEMBER 2015 -  </p>
+<b>Admin / GROWTH HACKER </b>
+
 Startup FRANCE SLACK Group is for all of us who push the entrepreneurial scene in Paris. we connect, chat, share and help each other in our journey to greatness.
- 
+When i joigned the community  the 16th of december we were 89 but thanks to several test runned for acquisition and the referral  we are now   - 
 PODCAST PRODUCER 
 Currently producing a french podcast about tech called Start-up France Podcast an activity which is allowing me to nurturing meaningful connection with entrepreneurs and my technical skills as a sound designer.Using only a phone mic and my skills on Ableton live.https://soundcloud.com/startupfranceslackgroup
 
