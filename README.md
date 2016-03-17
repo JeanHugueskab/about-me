@@ -17,10 +17,34 @@ Ex dev bootcamp [simplon.co](http://simplon.co/) alumni and Growth Hacker intern
 Simplon , 2015 - 
 
 Simplon is a 6-month training program specialised  Ruby on Rails in France. I learned about  Growth Hacking and lean start-up process.
+```ruby 
+# au hasard de 1 à  100
+reponse = rand (99)+1
+
+proposition=nil
+
+compteur = 0
+
+while proposition != reponse
+  puts "Saisissez un nombre entre 1 et 100"
+  proposition = gets.to_i
+  if proposition >=1 && proposition <= 100
+   compteur+= 1
+end
+
+if reponse < proposition
+  puts "Trop grand.. recommences"
+  elsif reponse > proposition
+  puts "Trop petit Saisissez un nombre plus grand"
+  else
+  puts " bravo la reponse est #{reponse} vous avez gagnez en #{compteur} coups"
+    end
+end
+```
 
 #Experience 
 
-Growth hacker intern, NOVEMBER 2016  - FEBRUARY 2016 [**THEFAMILY**](http://thefamily.co/)
+[**THEFAMILY**](http://thefamily.co/) - Growth hacker intern, NOVEMBER 2016  - FEBRUARY 2016 
 
 Growth Audit for company  like
 
@@ -34,12 +58,8 @@ Bricool
 Everinvest 
   https://www.everinvest.fr/Helped everinvest with advice on how to reach influencers in their market
 
-
-#co-founder/ Head of growth , NOVEMBER 2015 - 
-
-Co-Founder of  HackerHouse Paris the first communal living house for smart people working on interesting projects in Paris.
-NOVEMBER 2015 -  #HackerHouse Paris 
-I helped build  HackerHouse as a test and data driven company with an  agressive execution.
+#Head of growth , NOVEMBER 2015 - 
+<p>I helped build  HackerHouse as a test and data driven company with an  agressive execution. </p>
 In less than **24h** we had:
 580 unique visitors
 a new user signing up every 5 minutes.
@@ -48,13 +68,12 @@ a new user signing up every 5 minutes.
 Startup France Slack Group, NOVEMBER 2015 - 
 Admin / GROWTH HACKER 
 Startup FRANCE SLACK Group is for all of us who push the entrepreneurial scene in Paris. we connect, chat, share and help each other in our journey to greatness.
-
-STARTUP FRANCE SLACK GROUP, JANNUARY 2015 - 
+ 
 PODCAST PRODUCER 
 Currently producing a french podcast about tech called Start-up France Podcast an activity which is allowing me to nurturing meaningful connection with entrepreneurs and my technical skills as a sound designer.Using only a phone mic and my skills on Ableton live.https://soundcloud.com/startupfranceslackgroup
 
-nUMA HOUSE CONSULTANT , NOVEMBER 2015 - 
-NUMA
+NUMA HOUSE CONSULTANT , NOVEMBER 2015 - 
+
 Working with french incubator Numa to set up a co-living space 
 Do not hesitate to send me an e-mail for a first contact:
 
