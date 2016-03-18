@@ -25,11 +25,10 @@ Simplon is a 6-month training program specialised  Ruby on Rails in France. I le
 
 Growth Audit for company  like
 
-<b>Bit it </b>
-  www.bitit.gift/ I helped Bit it wich is a bitcoin e-giftcards  startup to get into the growth hacker mindset, and set up their    priority for customers acquisition
+[<b>Bit it]</b>] (www.bitit.gift/) I helped Bit it wich is a bitcoin e-giftcards  startup to get into the growth hacker mindset, and set up their    priority for customers acquisition
 
 
-[<b>Bricool </b>] (www.bricool.co/) Set up a Google Script for Bricool the uber of handy work, to send automatic SMS with twilio  API
+[<b>Bricool</b>] (www.bricool.co/) Set up a Google Script for Bricool the uber of handy work, to send automatic SMS with twilio  API
 
 [<b>Everinvest </b>]( https://www.everinvest.fr/) Helped everinvest with advice on how to reach influencers in their market
 
@@ -43,7 +42,7 @@ a new user signing up every 5 minutes.
 <b><p>Startup France Slack Group, NOVEMBER 2015 -  </p> </b>
 <b>Admin / GROWTH HACKER </b>
 
-<p><i>[Startup FRANCE SLACK](http://startupfrance.co/)</i> Group is for all of us who push the entrepreneurial scene in Paris. we connect, chat, share and help each other in our journey to greatness. </p>
+<p>[<b>Startup FRANCE SLACK</b>](http://startupfrance.co/)</i> Group is for all of us who push the entrepreneurial scene in Paris. we connect, chat, share and help each other in our journey to greatness. </p>
 
 When i joigned in  the idea to be the growth hacker of the community the 16th of december we were 89 but thanks to several test runned for acquisition and the referral  we are now <b>364</b>  - 
 
