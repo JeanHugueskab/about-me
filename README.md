@@ -55,13 +55,15 @@ Curently working with french incubator [Numa](http://paris.numa.co/) to set up a
 
 #Technical Skills
 
-<p>HTM/CSS Javascript <p>  level of experience Medium 
-<p>Linux,VIM,Shell </p>  level of experience Medium and beginner for VIM.
-<p>Growth Hacking </p>  level of experience Medium 
-<p>Ruby </p>  level of experience Beginner
-<p> AngularJs </p>  level of experience Beginner
-<p>API : Openfoodacts, Soundcloud, Twilio level of experience Beginner </p>
-
+| Technical Skills      | EXPERIENCE      
+| ------------- |:-------------:|
+| HTM/CSS Javascript   | Medium |
+| Linux     | Medium      |
+| VIM | Beginner     |    
+| AngularJs| Beginner |
+|Openfoodfacts API|Beginner
+|SOUNDCLOUD API | Beginner |
+|Twilio  API | Beginner
 
 <p> Do not hesitate to send me an e-mail for a first contact:</p>
 
