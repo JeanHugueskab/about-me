@@ -17,30 +17,7 @@ Ex dev bootcamp [simplon.co](http://simplon.co/) alumni and Growth Hacker intern
 Simplon , 2015  
 
 Simplon is a 6-month training program specialised  Ruby on Rails in France. I learned about  Growth Hacking and lean start-up process.
-```ruby 
-# au hasard de 1 à  100
-reponse = rand (99)+1
 
-proposition=nil
-
-compteur = 0
-
-while proposition != reponse
-  puts "Saisissez un nombre entre 1 et 100"
-  proposition = gets.to_i
-  if proposition >=1 && proposition <= 100
-   compteur+= 1
-end
-
-if reponse < proposition
-  puts "Trop grand.. recommences"
-  elsif reponse > proposition
-  puts "Trop petit Saisissez un nombre plus grand"
-  else
-  puts " bravo la reponse est #{reponse} vous avez gagnez en #{compteur} coups"
-    end
-end
-```
 
 #Experience 
 
@@ -74,11 +51,21 @@ When i joigned in  the idea to be the growth hacker of the community the 16th of
 
 <p> im  also  producing a french podcast about tech called Start-up France Podcast an activity which is allowing me to nurturing meaningful connection with entrepreneurs and my technical skills as a sound designer.Using only a phone mic and my skills on Ableton live.https://soundcloud.com/startupfranceslackgroup </p>
 
-##NUMA HOUSE CONSULTANT , NOVEMBER 2015 - 
+#NUMA HOUSE CONSULTANT , NOVEMBER 2015 - 
 
 Curently working with french incubator [Numa](http://paris.numa.co/) to set up a tech driven co-living space in Paris. 
 
 <img src="http://s24.postimg.org/ajtk9f7vp/Screen_Shot_2016_03_17_at_11_52_17_PM.png" alt="Smiley face" width="500" height="400">
+
+#Technical Skills
+
+HTM/CSS Javascript 
+Linux,VIM,Shell
+Growth Hacking
+Ruby
+AngularJs
+API : Openfoodacts, Soundcloud, Twilio 
+
 
 <p> Do not hesitate to send me an e-mail for a first contact:</p>
 
