@@ -14,7 +14,7 @@ Ex dev bootcamp [simplon.co](http://simplon.co/) alumni and Growth Hacker intern
 
 #Education 
 
-Simplon , 2015  
+[<b>Simplon</b>] (www.simplon.co) , 2015  
 
 Simplon is a 6-month training program specialised  Ruby on Rails in France. I learned about  Growth Hacking and lean start-up process.
 
@@ -25,7 +25,7 @@ Simplon is a 6-month training program specialised  Ruby on Rails in France. I le
 
 Growth Audit for company  like
 
-[<b>Bit it]</b>] (www.bitit.gift/) I helped Bit it wich is a bitcoin e-giftcards  startup to get into the growth hacker mindset, and set up their    priority for customers acquisition
+[Bit it] (www.bitit.gift/) I helped Bit it wich is a bitcoin e-giftcards  startup to get into the growth hacker mindset, and set up their    priority for customers acquisition
 
 
 [<b>Bricool</b>] (www.bricool.co/) Set up a Google Script for Bricool the uber of handy work, to send automatic SMS with twilio  API
@@ -41,12 +41,11 @@ a new user signing up every 5 minutes.
 
 <b><p>Startup France Slack Group, NOVEMBER 2015 -  </p> </b>
 <b>Admin / GROWTH HACKER </b>
-
-<p>[<b>Startup FRANCE SLACK</b>](http://startupfrance.co/)</i> Group is for all of us who push the entrepreneurial scene in Paris. we connect, chat, share and help each other in our journey to greatness. </p>
+is for all of us who push the entrepreneurial scene in Paris. we connect, chat, share and help each other in our journey to greatness. </p>
 
 When i joigned in  the idea to be the growth hacker of the community the 16th of december we were 89 but thanks to several test runned for acquisition and the referral  we are now <b>364</b>  - 
 
-<p> im  also  producing a french podcast about tech called Start-up France Podcast an activity which is allowing me to nurturing meaningful connection with entrepreneurs and my technical skills as a sound designer.Using only a phone mic and my skills on Ableton live.https://soundcloud.com/startupfranceslackgroup </p>
+<p> im  also  producing a french podcast about tech called Start-up France Podcast an activity which is allowing me to nurturing meaningful connection with entrepreneurs and my technical skills as a sound designer.Using only a phone mic and my skills on Ableton live. https://soundcloud.com/startupfranceslackgroup </p>
 
 #NUMA HOUSE CONSULTANT , NOVEMBER 2015 - 
 
@@ -56,12 +55,12 @@ Curently working with french incubator [Numa](http://paris.numa.co/) to set up a
 
 #Technical Skills
 
-<p>HTM/CSS Javascript <p> : level of experience Medium 
-<p>Linux,VIM,Shell </p> : level of experience Medium and beginner for VIM.
-<p>Growth Hacking </p> : : level of experience Medium 
-<p>Ruby </p> : level of experience Beginner
-<p> AngularJs </p> : level of experience Beginner
-<p>API : Openfoodacts, Soundcloud, Twilio </p>
+<p>HTM/CSS Javascript <p>  level of experience Medium 
+<p>Linux,VIM,Shell </p>  level of experience Medium and beginner for VIM.
+<p>Growth Hacking </p>  level of experience Medium 
+<p>Ruby </p>  level of experience Beginner
+<p> AngularJs </p>  level of experience Beginner
+<p>API : Openfoodacts, Soundcloud, Twilio level of experience Beginner </p>
 
 
 <p> Do not hesitate to send me an e-mail for a first contact:</p>
