@@ -31,6 +31,7 @@ Growth Audit for company  like
 [<b>Bricool</b>] (www.bricool.co/) Set up a Google Script for Bricool the uber of handy work, to send automatic SMS with twilio  API
 
 [<b>Everinvest </b>]( https://www.everinvest.fr/) Helped everinvest with advice on how to reach influencers in their market
+_____________________________________________________________________________________________________________________________
 
 <b>[**HackerHouse Paris**](http://www.hackerhouse.paris/#home/intro)- Head of growth, NOVEMBER 2015 - </b>
 
