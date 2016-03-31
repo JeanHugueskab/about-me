@@ -32,7 +32,7 @@ Growth Audit for company  like
 
 [<b>Everinvest </b>]( https://www.everinvest.fr/) Helped everinvest with advice on how to reach influencers in their market
 
-[**HackerHouse Paris **](http://www.hackerhouse.paris/#home/intro)- Head of growth, NOVEMBER 2015 - 
+[**HackerHouse Paris**](http://www.hackerhouse.paris/#home/intro)- Head of growth, NOVEMBER 2015 - 
 
 <p>I helped build  <b>HackerHouse</b> as a test and data driven company with an  agressive execution. </p>
 In less than **24h** we had:
@@ -47,7 +47,7 @@ When i joigned in  the idea to be the growth hacker of the community the 16th of
 
 <p> im  also  producing a french podcast about tech called Start-up France Podcast an activity which is allowing me to nurturing meaningful connection with entrepreneurs and my technical skills as a sound designer.Using only a phone mic and my skills on Ableton live. https://soundcloud.com/startupfranceslackgroup </p>
 
- [**NUMA**](http://www.hackerhouse.paris/hh/numa#hh/numa/hacker)-  NUMA HOUSE CONSULTANT, NOVEMBER 2015 -
+ <b>[**NUMA**](http://www.hackerhouse.paris/hh/numa#hh/numa/hacker)- Numa House Consultant, NOVEMBER 2015 - </b>
 
 Curently working with french incubator [Numa](http://paris.numa.co/) to set up a tech driven co-living space in Paris. 
 
