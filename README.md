@@ -21,7 +21,7 @@ Simplon is a 6-month training program specialised  Ruby on Rails in France. I le
 
 #Experience 
 
-[**THEFAMILY**](http://thefamily.co/) - Growth hacker intern, NOVEMBER 2016  - FEBRUARY 2016 
+<b>[**THEFAMILY**](http://thefamily.co/) - Growth hacker intern, NOVEMBER 2016  - FEBRUARY 2016 </b>
 
 Growth Audit for company  like
 
@@ -32,7 +32,7 @@ Growth Audit for company  like
 
 [<b>Everinvest </b>]( https://www.everinvest.fr/) Helped everinvest with advice on how to reach influencers in their market
 
-[**HackerHouse Paris**](http://www.hackerhouse.paris/#home/intro)- Head of growth, NOVEMBER 2015 - 
+<b>[**HackerHouse Paris**](http://www.hackerhouse.paris/#home/intro)- Head of growth, NOVEMBER 2015 - </b>
 
 <p>I helped build  <b>HackerHouse</b> as a test and data driven company with an  agressive execution. </p>
 In less than **24h** we had:
@@ -40,7 +40,7 @@ In less than **24h** we had:
 a new user signing up every 5 minutes.
 
 
-[**Startup France Slack Group**](http://startupfrance.co/)-  Admin / GROWTH HACKER, NOVEMBER 2015 -
+<b> [**Startup France Slack Group**](http://startupfrance.co/)-  Admin / GROWTH HACKER, NOVEMBER 2015 - </b>
 is for all of us who push the entrepreneurial scene in Paris. we connect, chat, share and help each other in our journey to greatness. 
 
 When i joigned in  the idea to be the growth hacker of the community the 16th of december we were 89 but thanks to several test runned for acquisition and the referral  we are now <b>364</b>  - 
