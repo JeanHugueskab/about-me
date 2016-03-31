@@ -40,20 +40,20 @@ In less than **24h** we had:
 <b>580 unique visitors </b>
 a new user signing up every 5 minutes.
 
-
+_____________________________________________________________________________________________________________________________
 <b> [**Startup France Slack Group**](http://startupfrance.co/)-  Admin / GROWTH HACKER, NOVEMBER 2015 - </b>
 is for all of us who push the entrepreneurial scene in Paris. we connect, chat, share and help each other in our journey to greatness. 
 
 When i joigned in  the idea to be the growth hacker of the community the 16th of december we were 89 but thanks to several test runned for acquisition and the referral  we are now <b>364</b>  - 
 
 <p> im  also  producing a french podcast about tech called Start-up France Podcast an activity which is allowing me to nurturing meaningful connection with entrepreneurs and my technical skills as a sound designer.Using only a phone mic and my skills on Ableton live. https://soundcloud.com/startupfranceslackgroup </p>
-
+_____________________________________________________________________________________________________________________________
  <b>[**NUMA**](http://www.hackerhouse.paris/hh/numa#hh/numa/hacker)- Numa House Consultant, NOVEMBER 2015 - </b>
 
 Curently working with french incubator [Numa](http://paris.numa.co/) to set up a tech driven co-living space in Paris. 
 
 <img src="http://s24.postimg.org/ajtk9f7vp/Screen_Shot_2016_03_17_at_11_52_17_PM.png" alt="Smiley face" width="500" height="400">
-
+_____________________________________________________________________________________________________________________________
 #Technical Skills
 
 | Technical Skills      | EXPERIENCE      
