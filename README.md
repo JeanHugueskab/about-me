@@ -32,22 +32,22 @@ Growth Audit for company  like
 
 [<b>Everinvest </b>]( https://www.everinvest.fr/) Helped everinvest with advice on how to reach influencers in their market
 
-#Head of growth , NOVEMBER 2015 - 
+[**HackerHouse Paris **](http://www.hackerhouse.paris/#home/intro)- Head of growth, NOVEMBER 2015 - 
+
 <p>I helped build  <b>HackerHouse</b> as a test and data driven company with an  agressive execution. </p>
 In less than **24h** we had:
 <b>580 unique visitors </b>
 a new user signing up every 5 minutes.
 
 
-<b><p>Startup France Slack Group, NOVEMBER 2015 -  </p> </b>
-<b>Admin / GROWTH HACKER </b>
-is for all of us who push the entrepreneurial scene in Paris. we connect, chat, share and help each other in our journey to greatness. </p>
+[**Startup France Slack Group**](http://startupfrance.co/)-  Admin / GROWTH HACKER, NOVEMBER 2015 -
+is for all of us who push the entrepreneurial scene in Paris. we connect, chat, share and help each other in our journey to greatness. 
 
 When i joigned in  the idea to be the growth hacker of the community the 16th of december we were 89 but thanks to several test runned for acquisition and the referral  we are now <b>364</b>  - 
 
 <p> im  also  producing a french podcast about tech called Start-up France Podcast an activity which is allowing me to nurturing meaningful connection with entrepreneurs and my technical skills as a sound designer.Using only a phone mic and my skills on Ableton live. https://soundcloud.com/startupfranceslackgroup </p>
 
-#NUMA HOUSE CONSULTANT , NOVEMBER 2015 - 
+ [**NUMA**](http://www.hackerhouse.paris/hh/numa#hh/numa/hacker)-  NUMA HOUSE CONSULTANT, NOVEMBER 2015 -
 
 Curently working with french incubator [Numa](http://paris.numa.co/) to set up a tech driven co-living space in Paris. 
 
