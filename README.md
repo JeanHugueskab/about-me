@@ -16,7 +16,7 @@ Ex dev bootcamp [simplon.co](http://simplon.co/) alumni and Growth Hacker intern
 
 [<b>Simplon</b>] (www.simplon.co) , 2015  
 
-Simplon is a 6-month training program specialised  Ruby on Rails in France. I learned about  Growth Hacking and lean start-up process.
+Simplon is a 6-month training program focused on Ruby on Rails in France.There i learned  the basics of web developement and played with  SoundCloud API Wrapper and  JSON  directory of openfoodfacts.
 
 
 #Experience 
