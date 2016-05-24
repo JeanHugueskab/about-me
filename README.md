@@ -58,7 +58,7 @@ ________________________________________________________________________________
 
 | Technical Skills      | EXPERIENCE      
 | ------------- |:-------------:|
-| HTM/CSS Javascript   | Medium |
+| HTML/CSS Javascript   | Medium |
 | Linux     | Medium      |
 | VIM | Beginner     |    
 | AngularJs| Beginner |
