@@ -66,6 +66,8 @@ ________________________________________________________________________________
 |SOUNDCLOUD API | Beginner |
 |Twilio  API | Beginner
 |Google adwords | Beginner
+|User experience design | Beginner
+
 
 <p> Do not hesitate to send me an e-mail for a first contact:</p>
 
