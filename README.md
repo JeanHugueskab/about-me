@@ -10,14 +10,16 @@ Ex dev bootcamp [simplon.co](http://simplon.co/) alumni and Growth Hacker intern
 
 # Education 
 
-[<b>Simplon</b>] (www.simplon.co) , 2015  
+[**Simplon**] (www.simplon.co) - 2015  
 
 Simplon is a 6-month training program focused on Ruby on Rails in France.
 
 # Experience 
 
 <b>[**THEFAMILY**](http://thefamily.co/) - Growth hacker intern, NOVEMBER 2016  - FEBRUARY 2016 </b>
-Below a list of the startup I was involved with during my internship
+
+Below a list of the startup I worked with during my internship
+
 [Bit it] (www.bitit.gift/) 
 
 I helped Bit it wich is a bitcoin e-giftcards  startup to get into the growth hacker mindset, and set up their    priority for customers acquisition
@@ -30,11 +32,13 @@ Set up a Google Script for Bricool the uber of handy work, to send automatic SMS
 Helped everinvest with advice on how to reach influencers in their market
 _____________________________________________________________________________________________________________________________
 
-<b>[**HackerHouse Paris**](http://www.hackerhouse.paris/#home/intro)- Head of growth, NOVEMBER 2015 - </b>
+<b>[**HackerHouse Paris**](http://www.hackerhouse.paris/#home/intro) - Head of growth, NOVEMBER 2015 - </b>
 
 <p>I helped build  <b>HackerHouse</b> as a test and data driven company with an  agressive execution. </p>
 In less than **24h** we had:
+
 <b>580 unique visitors </b>
+
 a new user signing up every 5 minutes when we launched our landing page.
 
 _____________________________________________________________________________________________________________________________
@@ -51,7 +55,7 @@ intercom
  important for our SEO
  Watch to optimize marketing automation and
  implementation of a CRM for B2C acquisition
-   Cleaning of the database using SQL language
+ Cleaning of the database using SQL language
 
 _____________________________________________________________________________________________________________________________
 #Technical Skills :octocat:
