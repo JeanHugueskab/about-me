@@ -42,11 +42,11 @@ In less than **24h** we had:
 a new user signing up every 5 minutes when we launched our landing page.
 
 _____________________________________________________________________________________________________________________________
-<b>[**NUMA**](http://www.hackerhouse.paris/hh/numa#hh/numa/hacker)- Numa House Consultant, NOVEMBER 2015 - </b>
+<b>[**NUMA**](http://www.hackerhouse.paris/hh/numa#hh/numa/hacker) - Numa House Consultant, NOVEMBER 2015 - </b>
 
 Worked with french incubator [Numa](http://paris.numa.co/) to set up a tech driven co-living space in Paris.
 
-<b>[**Tracktl**](https://www.tracktl.com/en/index.html)- Traffic Manager, December 2017 -  February 2018 </b>
+<b>[**Tracktl**](https://www.tracktl.com/en/index.html) - Traffic Manager, December 2017 -  February 2018 </b>
 
  Funnels optimisation targeted for B2B customers using
 intercom
@@ -70,9 +70,6 @@ ________________________________________________________________________________
 | AngularJs| Beginner |
 |Openfoodfacts API|Beginner
 |SOUNDCLOUD API | Beginner |
-|Twilio  API | Beginner
-|Google adwords | Beginner
-|User experience design | Beginner
-
-
-Kabuikujeanhugues@gmail.com
+|Twilio  API | Beginner|
+|Google adwords | Beginner|
+|User experience design | Beginner|
