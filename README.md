@@ -4,25 +4,25 @@ I've got solid foundations in coding language and scripting.
 
 # Education 
 
-[**Simplon**] (www.simplon.co) - 2015  
+**Simplon** (www.simplon.co) - 2015  
 
 Simplon is a 6-month training program focused on Ruby on Rails in France.
 
 # Experience 
 
-<b>[**THEFAMILY**](http://thefamily.co/) - Growth hacker intern, NOVEMBER 2016  - FEBRUARY 2016 </b>
+<b>**THEFAMILY** (http://thefamily.co/) - Growth hacker intern, NOVEMBER 2016  - FEBRUARY 2016 </b>
 
 Below a list of the startup I worked with during my internship
 
-[Bit it] (www.bitit.gift/) 
+<b>Bit it</b> (www.bitit.gift/) 
 
 I helped Bit it wich is a bitcoin e-giftcards  startup to get into the growth hacker mindset, and set up their    priority for customers acquisition
 
 
-[<b>Bricool</b>] (www.bricool.co/) 
+<b>Bricool</b> (www.bricool.co/) 
 Set up a Google Script for Bricool the uber of handy work, to send automatic SMS with twilio  API
 
-[<b>Everinvest </b>]( https://www.everinvest.fr/)
+<b>Everinvest </b>( https://www.everinvest.fr/)
 Helped everinvest with advice on how to reach influencers in their market
 _____________________________________________________________________________________________________________________________
 
