@@ -9,7 +9,7 @@ Simplon is a 6-month training program focused on Ruby on Rails in France.
 
 # Experience 
 
-<b>[*THEFAMILY*] (http://thefamily.co/) - Growth hacker intern, NOVEMBER 2016  - FEBRUARY 2016 </b>
+<b>[*THEFAMILY*](http://thefamily.co/) - Growth hacker intern, NOVEMBER 2016  - FEBRUARY 2016 </b>
 
 Below a list of the startup I worked with during my internship
 
