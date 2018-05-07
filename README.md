@@ -2,8 +2,6 @@
 
 I've got solid foundations in coding language and scripting.
 
-# Resume
-
 # Education 
 
 [**Simplon**] (www.simplon.co) - 2015  
