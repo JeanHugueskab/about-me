@@ -1,10 +1,6 @@
 # Jean-Hugues Kabuiku  Resume 
-Technology is for me a tool allowing me to express my creativity. [Producer of electronic music](https://soundcloud.com/amazinggaijin) and tech enthusiast Techcrunch, reading Gizmodo and Hackernews are part of my morning routine.
 
-My passions allowed me to etablish a network through Europe in the sectors of musics and the technologies, sectors between which the borders are getting thinner.
-
-Ex dev bootcamp [simplon.co](http://simplon.co/) alumni and Growth Hacker intern at the french investment firm  [TheFamily ](http://www.thefamily.co/), i can say that i have solid foundation in web development and webmarketing.
-
+I've got solid foundations in coding language and scripting.
 
 # Resume
 
