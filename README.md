@@ -16,16 +16,16 @@ Simplon is a 6-month training program focused on Ruby on Rails in France.
 
 Below a list of the startup I worked with during my internship
 
-<b>Bit it</b> (www.bitit.gift/) 
+ <b>Bit it</b> (www.bitit.gift/) 
 
-I helped Bit it wich is a bitcoin e-giftcards  startup to get into the growth hacker mindset, and set up their    priority for customers acquisition
+  I helped Bit it wich is a bitcoin e-giftcards  startup to get into the growth hacker mindset, and set up their    priority for customers acquisition
 
 
-<b>Bricool</b> (www.bricool.co/) 
-Set up a Google Script for Bricool the uber of handy work, to send automatic SMS with twilio  API
+ <b>Bricool</b> (www.bricool.co/) 
+  Set up a Google Script for Bricool the uber of handy work, to send automatic SMS with twilio  API
 
-<b>Everinvest </b>( https://www.everinvest.fr/)
-Helped everinvest with advice on how to reach influencers in their market
+ <b>Everinvest </b>( https://www.everinvest.fr/)
+  Helped everinvest with advice on how to reach influencers in their market
 _____________________________________________________________________________________________________________________________
 
 <b>[**HackerHouse Paris**](http://www.hackerhouse.paris/#home/intro) - Head of growth, NOVEMBER 2015 - </b>
