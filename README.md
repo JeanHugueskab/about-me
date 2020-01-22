@@ -3,7 +3,8 @@
 I've got solid foundations in coding language and scripting.
 
 # Education 
-<b>[*le Wagon*](Le Wagon is ranked as the world's best coding bootcamp.) - 2020 </b>
+<b>[*le Wagon*](Le Wagon is ranked as the world's best coding bootcamp.) - 2020</b>
+
 <b>[*SIMPLON*](www.simplon.co) - 2015 </b>
 
 Simplon is a 6-month training program focused on Ruby on Rails in France.
