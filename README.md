@@ -1,5 +1,5 @@
 # Jean-Hugues Kabuiku  Resume 
-Ex-Growth Hacker at the French investment firm TheFamily and alumni of the dev bootcamp simplon.co and Le Wagon https://www.lewagon.com/, I have solid foundations in web development and growth hacking 
+Ex-Growth Hacker at the French investment firm TheFamily and alumni of the dev bootcamp Simplon and Le Wagon , I have solid foundations in web development and growth hacking 
 
 # Education 
 <b>[*le Wagon*](https://www.lewagon.com/) - 2020</b>
