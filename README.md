@@ -31,11 +31,6 @@ ________________________________________________________________________________
 <b>[**HackerHouse Paris**](http://www.hackerhouse.paris/#home/intro) - Head of growth, NOVEMBER 2015 - </b>
 
 <p>I helped build  <b>HackerHouse</b> as a test and data driven company with an  agressive execution. </p>
-In less than **24h** we had:
-
-<b>580 unique visitors </b>
-
-a new user signing up every 5 minutes when we launched our landing page.
 
 _____________________________________________________________________________________________________________________________
 <b>[**NUMA**](http://www.hackerhouse.paris/hh/numa#hh/numa/hacker) - Numa House Consultant, NOVEMBER 2015 - </b>
