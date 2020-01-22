@@ -3,7 +3,9 @@
 I've got solid foundations in coding language and scripting.
 
 # Education 
-<b>[*le Wagon*](Le Wagon is ranked as the world's best coding bootcamp.) - 2020</b>
+<b>[*le Wagon*](https://www.lewagon.com/) - 2020</b>
+
+Le Wagon is ranked as the world's best coding bootcamp.
 
 <b>[*SIMPLON*](www.simplon.co) - 2015 </b>
 
