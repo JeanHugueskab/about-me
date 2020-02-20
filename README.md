@@ -4,7 +4,13 @@ Ex-Growth Hacker at the French investment firm TheFamily and alumni of the dev b
 # Education 
 <b>[*le Wagon*](https://www.lewagon.com/) - 2020</b>
 
-Le Wagon is ranked as the world's best coding bootcamp.
+FullStack program
+- ruby
+- Software architecture
+- Database & SQL
+- Front-End
+- Rails
+- Project development :: versioning and collaboration techniques on Github, continuous deployment and scaling of a web application using heroku.
 
 <b>[*SIMPLON*](www.simplon.co) - 2015 </b>
 
