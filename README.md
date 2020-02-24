@@ -65,8 +65,5 @@ ________________________________________________________________________________
 |Google Script| Beginner
 | VIM | Beginner     |    
 | AngularJs| Beginner |
-|Openfoodfacts API|Beginner
-|SOUNDCLOUD API | Beginner |
-|Twilio  API | Beginner|
 |Google adwords | Beginner|
 |User experience design | Beginner|
